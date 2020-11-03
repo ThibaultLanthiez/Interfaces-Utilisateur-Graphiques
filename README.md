@@ -6,7 +6,7 @@ L’objectif du projet est de réaliser une bibliothèque logicielle qui facilit
 
 En utilisant cette bibliothèque, un programmeur pourra facilement créer une interface graphique composée de **fenêtres** et d’**interacteurs** tels que des boutons ou champs de saisie. 
 
-La réalisation de cette bibliothèque logicielle (ensemble de fonctions en **langage C**) est destinée à des programmeurs, et non une application destinée à des utilisateurs.
+La réalisation de cette bibliothèque logicielle (ensemble de fonctions en **langage C**) est destinée à des programmeurs et non à des utilisateurs.
 
 Il nous est donné des fonctions pour :
 * l’accès aux pixels de l’écran
