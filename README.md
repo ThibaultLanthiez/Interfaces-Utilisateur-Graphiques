@@ -9,17 +9,17 @@ En utilisant cette bibliothèque, un programmeur pourra facilement créer une in
 La réalisation de cette bibliothèque logicielle (ensemble de fonctions en **langage C**) est destinée à des programmeurs, et non une application destinée à des utilisateurs.
 
 Il nous est donné des fonctions pour :
-— l’accès aux pixels de l’écran,
-— le dessin de texte,
-— le dessin de primitives graphiques (dessin de lignes, de polygones),
-— la réception des actions de l’utilisateur sur le clavier et la souris (événements d’appuis de touche, de
+* l’accès aux pixels de l’écran,
+* le dessin de texte,
+* le dessin de primitives graphiques (dessin de lignes, de polygones),
+* la réception des actions de l’utilisateur sur le clavier et la souris (événements d’appuis de touche, de
 déplacement de souris, etc.).
 
 On a du réaliser les algorithmes :
-— de configuration et de dessin des interacteurs (boutons, fenêtre, etc.),
-— de gestion de la géométrie (position, taille) des interacteurs à l’écran, en particulier lors du changement
+* de configuration et de dessin des interacteurs (boutons, fenêtre, etc.),
+* de gestion de la géométrie (position, taille) des interacteurs à l’écran, en particulier lors du changement
 de taille de la fenêtre,
-— de gestion des événements des utilisateurs (exécution des fonctions en réaction aux actions de l’utilisateur
+* de gestion des événements des utilisateurs (exécution des fonctions en réaction aux actions de l’utilisateur
 sur la souris et le clavier).
 
 Ce projet a été développé en groupe de 4.  
