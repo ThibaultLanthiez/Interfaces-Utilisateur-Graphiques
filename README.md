@@ -2,7 +2,9 @@
 
 # Interfaces Utilisateur Graphiques
 
-L’objectif du projet est de réaliser une bibliothèque logicielle qui facilite la programmation des Interfaces Utilisateur Graphiques (IUG). En utilisant cette bibliothèque, un programmeur pourra facilement créer une interface graphique composée de **fenêtres** et d’**interacteurs** tels que boutons, champs de saisie, etc. 
+L’objectif du projet est de réaliser une bibliothèque logicielle qui facilite la programmation des Interfaces Utilisateur Graphiques (IUG).
+
+En utilisant cette bibliothèque, un programmeur pourra facilement créer une interface graphique composée de **fenêtres** et d’**interacteurs** tels que boutons, champs de saisie, etc. 
 
 La réalisation de cette bibliothèque logicielle (ensemble de fonctions en **langage C**) est destinée à des programmeurs, et non une application destinée à des utilisateurs.
 
