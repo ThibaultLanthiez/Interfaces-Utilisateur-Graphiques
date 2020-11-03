@@ -15,14 +15,12 @@ Il nous est donné des fonctions pour :
 * la réception des actions de l’utilisateur sur le clavier et la souris (événements d’appuis de touche, de
 déplacement de souris ...)
 
-On a du réaliser les algorithmes :
+Ce projet a été développé en groupe de 4. Nous avons du réaliser des algorithmes :
 * de configuration et de dessin des interacteurs (boutons, fenêtre ...)
 * de gestion de la géométrie (position, taille) des interacteurs à l’écran, en particulier lors du changement
 de taille de la fenêtre
 * de gestion des événements des utilisateurs (exécution des fonctions en réaction aux actions de l’utilisateur
 sur la souris et le clavier)
-
-Ce projet a été développé en groupe de 4.  
 
 # Code
 
