@@ -24,4 +24,4 @@ sur la souris et le clavier)
 
 # Code
 
-Les programmes ne sont pas disponibles, étant donné que ce projet sera surement reproposé l'année prochaine à l'ENSIMAG.
+Les programmes ne sont pas disponibles étant donné que ce projet sera surement reproposé l'année prochaine à l'ENSIMAG.
