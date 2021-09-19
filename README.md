@@ -21,4 +21,4 @@ Ce projet a été développé en groupe de 4 pendant plus d'un mois. Nous avons 
 
 # Code
 
-Les programmes ne sont pas disponibles étant donné que ce projet sera surement reproposé l'année prochaine à l'ENSIMAG.
+Les programmes ne sont pas disponibles étant donné que ce projet sera surement à nouveau proposé l'année prochaine à l'ENSIMAG.
